@@ -4,12 +4,13 @@
 - 📫 How to reach me ... sandhu.sahil2002@gmail.com
 
 ## Projects:
-- HTML, CSS, JavaScript
-  - https://sandhu-sahil.github.io/Intro-Homepage/
-  - https://sandhu-sahil.github.io/TimeTable/
-  - https://sandhu-sahil.github.io/Trivia-SS/
-  - https://sandhu-sahil.github.io/To-Do-List_Using_browser_storage/
-  - https://sandhu-sahil.github.io/Search_Engine/
+
+- Django Backend
+  - https://wiki----sandhu.herokuapp.com/
+  - https://mail----sandhu.herokuapp.com/
+  - https://social-networking----sandhu.herokuapp.com/
+  - https://auctioning-space----sandhu.herokuapp.com/
+  - https://job-genie----sandhu.herokuapp.com/
 <br>
 
 - Flask Backend
@@ -18,12 +19,13 @@
   - https://assess-enigma----sandhu.herokuapp.com/
 <br>
 
-- Django Backend
-  - https://wiki----sandhu.herokuapp.com/
-  - https://mail----sandhu.herokuapp.com/
-  - https://social-networking----sandhu.herokuapp.com/
-  - https://auctioning-space----sandhu.herokuapp.com/
-  - https://job-genie----sandhu.herokuapp.com/
+- HTML, CSS, JavaScript
+  - https://sandhu-sahil.github.io/Intro-Homepage/
+  - https://sandhu-sahil.github.io/TimeTable/
+  - https://sandhu-sahil.github.io/Trivia-SS/
+  - https://sandhu-sahil.github.io/To-Do-List_Using_browser_storage/
+  - https://sandhu-sahil.github.io/Search_Engine/
+<br>
 
 <!-- 💞️ I’m looking to collaborate on ...->
 
