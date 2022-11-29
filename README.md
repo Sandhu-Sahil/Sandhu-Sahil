@@ -10,7 +10,7 @@
   - https://play.google.com/store/apps/details?id=com.farms2families
  <br>
 
-- Django Backend
+- Django
   - https://best-market-gdsc----sandhu.herokuapp.com/
   - https://auctioning-space----sandhu.herokuapp.com/
   - https://job-genie----sandhu.herokuapp.com/
@@ -19,7 +19,7 @@
   - https://mail----sandhu.herokuapp.com/
 <br>
 
-- Flask Backend
+- Flask
   - https://assess-enigma----sandhu.herokuapp.com/
   - https://finance-stock-market----sandhu.herokuapp.com/
   - https://birthday-tracker----sandhu.herokuapp.com/
