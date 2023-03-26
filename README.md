@@ -6,7 +6,7 @@
 ## Projects:
 
 - MERN Stack
-  - https://cariometer.live/
+  - https://cavitywizard.com/
   - https://play.google.com/store/apps/details?id=com.farms2families
  <br>
 
