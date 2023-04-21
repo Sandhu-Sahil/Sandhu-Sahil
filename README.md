@@ -1,10 +1,24 @@
 - 👋 Hi, I’m @Sandhu-Sahil  (Sahilsher Singh)
 - 👀 I’m interested in ... Web Development Backend / ML and AI
-- 🌱 I’m currently learning ... Node.js, React.js
+- 🌱 I’m currently learning ... Golang and AWS
 - 📫 How to reach me ... sandhu.sahil2002@gmail.com
 
 ## Projects:
 
+- GoLang Backend
+  - (Movies Crud)[https://github.com/Sandhu-Sahil/movies-crud-GoLang]
+  - (WebApp)[https://github.com/Sandhu-Sahil/Go-WebApp-Handling]
+  - (GoLang Sql)[https://github.com/Sandhu-Sahil/GoLang-Database]
+  - (GoLang MongoDB)[https://github.com/Sandhu-Sahil/MongoDb-GoLang]
+  - (Gin)[https://github.com/Sandhu-Sahil/Gin-Mongodb]
+  - (JWT Authentication)[https://github.com/Sandhu-Sahil/jwt-Golang]
+  - (Monopoly)[https://github.com/Sandhu-Sahil/Monopoly-Golang-Backend]
+  <br>
+  
+- GoLang Frontend 
+  - (Monopoly)[https://github.com/Sandhu-Sahil/Monopoly-Golang-Frontend]
+  <br>
+  
 - MERN Stack
   - https://cavitywizard.com/
   - https://play.google.com/store/apps/details?id=com.farms2families
