@@ -9,7 +9,7 @@
   - [Movies Crud](https://github.com/Sandhu-Sahil/movies-crud-GoLang)
   - [WebApp](https://github.com/Sandhu-Sahil/Go-WebApp-Handling)
   - [GoLang Sql](https://github.com/Sandhu-Sahil/GoLang-Database)
-  - [GoLang MongoDB]([https://github.com/Sandhu-Sahil/MongoDb-GoLang)
+  - [GoLang MongoDB](https://github.com/Sandhu-Sahil/MongoDb-GoLang)
   - [Gin](https://github.com/Sandhu-Sahil/Gin-Mongodb)
   - [JWT Authentication](https://github.com/Sandhu-Sahil/jwt-Golang)
   - [Monopoly](https://github.com/Sandhu-Sahil/Monopoly-Golang-Backend)
