@@ -25,18 +25,18 @@
  <br>
 
 - Django
-  - https://best-market-gdsc----sandhu.herokuapp.com/
-  - https://auctioning-space----sandhu.herokuapp.com/
-  - https://job-genie----sandhu.herokuapp.com/
-  - https://social-networking----sandhu.herokuapp.com/
-  - https://wiki----sandhu.herokuapp.com/
-  - https://mail----sandhu.herokuapp.com/
+  - [Best Market](https://github.com/Sandhu-Sahil/GDSC-supermarket)
+  - [Auctioning Space](https://github.com/Sandhu-Sahil/Auctioning_Space)
+  - [Job Genie](https://github.com/Sandhu-Sahil/Job-Genie)
+  - [Social Networking](https://github.com/Sandhu-Sahil/Social_Networking_Website)
+  - [Wiki Clone](https://github.com/Sandhu-Sahil/Encyclopedia-WIKI)
+  - [Mail](https://github.com/Sandhu-Sahil/SS-Mails)
 <br>
 
 - Flask
-  - https://assess-enigma----sandhu.herokuapp.com/
-  - https://finance-stock-market----sandhu.herokuapp.com/
-  - https://birthday-tracker----sandhu.herokuapp.com/
+  - [Assess Enigma](https://github.com/Sandhu-Sahil/Assess_ENIGMA_......_Harvard_University)
+  - [Finance Stock Market](https://github.com/Sandhu-Sahil/CS50x2021_Harvard_University/tree/master/Week-09%20%20Flask%2C%20Ajax%2C%20JSON/Finance%2C%20Stock%20Market)
+  - [Birthday Tracker](https://github.com/Sandhu-Sahil/CS50x2021_Harvard_University/tree/master/Week-09%20%20Flask%2C%20Ajax%2C%20JSON/Birthday%20Database%20Tracker)
 <br>
 
 - HTML, CSS, JavaScript
