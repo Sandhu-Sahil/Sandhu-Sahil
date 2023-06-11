@@ -1,3 +1,10 @@
+<style>
+.table-wrapper {
+  overflow-x: hidden;
+  width: auto;
+}
+</style>
+
 - 👋 Hi, I’m @Sandhu-Sahil  (Sahilsher Singh)
 - 👀 I’m interested in ... Web Development Backend / ML and AI
 - 🌱 I’m currently learning ... Golang and AWS
@@ -5,7 +12,7 @@
 
 ## Projects:
 
-<div>
+<div class="table-wrapper">
 <div>
 <table style="width: auto; overflow-x: hidden; ">
   <tr>
@@ -60,7 +67,7 @@
 | https://sandhu-sahil.github.io/Search_Engine/ <br> https://sandhu-sahil.github.io/Intro-Homepage/ <br> https://sandhu-sahil.github.io/To-Do-List_Using_browser_storage/ <br> https://sandhu-sahil.github.io/TimeTable/ <br> https://sandhu-sahil.github.io/Trivia-SS/ <br> https://github.com/dsc-jiit-128/DynamicQr <br> |
 
    </td>
-  </tr>
+  </tr> 
 </table>
 
 </div>
