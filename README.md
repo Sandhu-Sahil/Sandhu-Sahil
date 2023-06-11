@@ -56,7 +56,7 @@
   <tr>
     <td>
 
-| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; HTML, CSS, JavaScript &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |
+| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; HTML, CSS, JavaScript &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |
 | :------------: |
 | https://sandhu-sahil.github.io/Search_Engine/ <br> https://sandhu-sahil.github.io/Intro-Homepage/ <br> https://sandhu-sahil.github.io/To-Do-List_Using_browser_storage/ <br> https://sandhu-sahil.github.io/TimeTable/ <br> https://sandhu-sahil.github.io/Trivia-SS/ <br> https://github.com/dsc-jiit-128/DynamicQr <br> |
 
