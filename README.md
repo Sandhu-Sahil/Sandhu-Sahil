@@ -27,10 +27,10 @@
 
   </td>
   </tr>
-
-  <tr>
 </table>
+
 <table> 
+  <tr>
   <td>
 
 | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Django &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |
