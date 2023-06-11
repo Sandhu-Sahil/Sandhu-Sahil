@@ -10,18 +10,18 @@
   <tr>
   <td>
 
-| $~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Golang Backend $~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ |
+| &emsp; &emsp; &emsp; &emsp; &emsp; Golang Backend &emsp; &emsp; &emsp; &emsp; &emsp; |
 | :------------: |
 | [Cryptic hunt](https://github.com/dsc-jiit-128/CrypticHunt) <br> [Movies Crud](https://github.com/Sandhu-Sahil/movies-crud-GoLang) <br>  [WebApp](https://github.com/Sandhu-Sahil/Go-WebApp-Handling) <br>  [GoLang Sql](https://github.com/Sandhu-Sahil/GoLang-Database) <br>  [GoLang MongoDB](https://github.com/Sandhu-Sahil/MongoDb-GoLang) <br>  [Gin](https://github.com/Sandhu-Sahil/Gin-Mongodb) <br>  [JWT Authentication](https://github.com/Sandhu-Sahil/jwt-Golang) <br>  [Monopoly](https://github.com/Sandhu-Sahil/Monopoly-Golang-Backend) <br> | 
 
   </td>
   <td>
 
-| $~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Golang Frontend $~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ |
+| &emsp; &emsp; &emsp; &emsp; &emsp; Golang Frontend &emsp; &emsp; &emsp; &emsp; &emsp; |
 | :-------------: | 
 | [Monopoly](https://github.com/Sandhu-Sahil/Monopoly-Golang-Frontend) <br> | 
 
-| $~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ MERN Stack $~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ | 
+| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; MERN Stack &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | 
 | :---------------: |
 | [cavity wizard](https://cavitywizard.com/) <br> [farms2families](https://play.google.com/store/apps/details?id=com.farms2families) <br> [Cryptic hunt](https://github.com/dsc-jiit-128/CrypticHunt) <br> [GDSC JIIT website](https://github.com/dsc-jiit-128/GDSC-128-Site) <br> |
 
