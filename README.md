@@ -6,8 +6,8 @@
 ## Projects:
 
 <div>
-<div style="overflow-x: auto;">
-<table style="width: 100%;">
+<div>
+<table style="width: auto; overflow-x: hidden; ">
   <tr>
   <td align="center">
 
@@ -30,8 +30,8 @@
   </tr>
 </table>
   </div>
-  <div style="overflow-x: auto;">
-<table style="width: 100%;"> 
+  <div>
+<table style="width: auto; overflow-x: hidden;"> 
   <tr>
   <td align="center">
 
@@ -50,8 +50,8 @@
   </tr>
 </table>
   </div>
-  <div style="overflow-x: auto;">
-<table style="width: 100%;">
+  <div>
+<table style="width: auto; overflow-x: hidden;">
   <tr>
     <td>
 
