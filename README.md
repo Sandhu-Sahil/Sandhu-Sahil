@@ -27,6 +27,31 @@
 
   </td>
   </tr>
+
+  <tr>
+  <td>
+
+| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Django &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |
+| :------------: |
+| [Best Market](https://github.com/Sandhu-Sahil/GDSC-supermarket) <br> [Auctioning Space](https://github.com/Sandhu-Sahil/Auctioning_Space) <br> [Job Genie](https://github.com/Sandhu-Sahil/Job-Genie) <br> [Social Networking](https://github.com/Sandhu-Sahil/Social_Networking_Website) <br> [Wiki Clone](https://github.com/Sandhu-Sahil/Encyclopedia-WIKI) <br> [Mail](https://github.com/Sandhu-Sahil/SS-Mails) <br> |
+
+  </td>
+  <td>
+
+| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Flask &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |
+| :------------: |
+| [Assess Enigma](https://github.com/Sandhu-Sahil/Assess_ENIGMA_......_Harvard_University) <br> [Finance Stock Market](https://github.com/Sandhu-Sahil/CS50x2021_Harvard_University/tree/master/Week-09%20%20Flask%2C%20Ajax%2C%20JSON/Finance%2C%20Stock%20Market) <br> [Birthday Tracker](https://github.com/Sandhu-Sahil/CS50x2021_Harvard_University/tree/master/Week-09%20%20Flask%2C%20Ajax%2C%20JSON/Birthday%20Database%20Tracker) <br> |
+
+  </td>
+  </tr>
+  
+  <tr>
+
+| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; HTML, CSS, JavaScript &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |
+| :------------: |
+| https://sandhu-sahil.github.io/Search_Engine/ <br> https://sandhu-sahil.github.io/Intro-Homepage/ <br> https://sandhu-sahil.github.io/To-Do-List_Using_browser_storage/ <br> https://sandhu-sahil.github.io/TimeTable/ <br> https://sandhu-sahil.github.io/Trivia-SS/ <br> https://github.com/dsc-jiit-128/DynamicQr |
+
+  </tr>
 </table>
 
 </div>
