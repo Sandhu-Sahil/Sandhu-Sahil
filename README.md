@@ -12,6 +12,67 @@
 
 ## Projects:
 
+<div style="width: 100%; overflow-x: auto;">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Golang Backend</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/dsc-jiit-128/CrypticHunt">Cryptic hunt</a><br>
+          <a href="https://github.com/Sandhu-Sahil/movies-crud-GoLang">Movies Crud</a><br>
+          <a href="https://github.com/Sandhu-Sahil/Go-WebApp-Handling">WebApp</a><br>
+          <a href="https://github.com/Sandhu-Sahil/GoLang-Database">GoLang Sql</a><br>
+          <a href="https://github.com/Sandhu-Sahil/MongoDb-GoLang">GoLang MongoDB</a><br>
+          <a href="https://github.com/Sandhu-Sahil/Gin-Mongodb">Gin</a><br>
+          <a href="https://github.com/Sandhu-Sahil/jwt-Golang">JWT Authentication</a><br>
+          <a href="https://github.com/Sandhu-Sahil/Monopoly-Golang-Backend">Monopoly</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div style="width: 100%; overflow-x: auto;">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Golang Frontend</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/Sandhu-Sahil/Monopoly-Golang-Frontend">Monopoly</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div style="width: 100%; overflow-x: auto;">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">MERN Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://cavitywizard.com/">cavity wizard</a><br>
+          <a href="https://play.google.com/store/apps/details?id=com.farms2families">farms2families</a><br>
+          <a href="https://github.com/dsc-jiit-128/CrypticHunt">Cryptic hunt</a><br>
+          <a href="https://github.com/dsc-jiit-128/GDSC-128-Site">GDSC JIIT website</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <div class="table-wrapper">
 <div>
 <table style="width: auto; overflow-x: hidden; ">
