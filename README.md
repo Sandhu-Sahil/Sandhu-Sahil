@@ -6,16 +6,16 @@
 ## Projects:
 
 <div>
-<table>
+<table style="width: 50%;">
   <tr>
-  <td>
+  <td align="center">
 
 | Golang Backend |
 | :------------: |
 | [Cryptic hunt](https://github.com/dsc-jiit-128/CrypticHunt) <br> [Movies Crud](https://github.com/Sandhu-Sahil/movies-crud-GoLang) <br>  [WebApp](https://github.com/Sandhu-Sahil/Go-WebApp-Handling) <br>  [GoLang Sql](https://github.com/Sandhu-Sahil/GoLang-Database) <br>  [GoLang MongoDB](https://github.com/Sandhu-Sahil/MongoDb-GoLang) <br>  [Gin](https://github.com/Sandhu-Sahil/Gin-Mongodb) <br>  [JWT Authentication](https://github.com/Sandhu-Sahil/jwt-Golang) <br>  [Monopoly](https://github.com/Sandhu-Sahil/Monopoly-Golang-Backend) <br> | 
 
   </td>
-  <td>
+  <td align="center">
 
 | Golang Frontend |
 | :-------------: | 
