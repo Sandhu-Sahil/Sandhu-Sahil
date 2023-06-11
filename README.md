@@ -1,82 +1,12 @@
-<style>
-.table-wrapper {
-  overflow-x: hidden;
-  width: auto;
-}
-</style>
-
 - 👋 Hi, I’m @Sandhu-Sahil  (Sahilsher Singh)
 - 👀 I’m interested in ... Web Development Backend / ML and AI
 - 🌱 I’m currently learning ... Golang and AWS
 - 📫 How to reach me ... sandhu.sahil2002@gmail.com
 
 ## Projects:
-<div style="display: flex; ">
-  <div style="width: 100%; overflow-x: auto;">
-    <table>
-      <thead>
-        <tr>
-          <th align="center"> &emsp; &emsp; &emsp; &emsp; &emsp; Golang Backend &emsp; &emsp; &emsp; &emsp; &emsp; </th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="center">
-            <a href="https://github.com/dsc-jiit-128/CrypticHunt">Cryptic hunt</a><br>
-            <a href="https://github.com/Sandhu-Sahil/movies-crud-GoLang">Movies Crud</a><br>
-            <a href="https://github.com/Sandhu-Sahil/Go-WebApp-Handling">WebApp</a><br>
-            <a href="https://github.com/Sandhu-Sahil/GoLang-Database">GoLang Sql</a><br>
-            <a href="https://github.com/Sandhu-Sahil/MongoDb-GoLang">GoLang MongoDB</a><br>
-            <a href="https://github.com/Sandhu-Sahil/Gin-Mongodb">Gin</a><br>
-            <a href="https://github.com/Sandhu-Sahil/jwt-Golang">JWT Authentication</a><br>
-            <a href="https://github.com/Sandhu-Sahil/Monopoly-Golang-Backend">Monopoly</a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
 
-  <div style="width: 100%; overflow-x: auto;">
-    <table>
-      <thead>
-        <tr>
-          <th align="center"> &emsp; &emsp; &emsp; &emsp; &emsp; Golang Frontend &emsp; &emsp; &emsp; &emsp; &emsp; </th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="center">
-            <a href="https://github.com/Sandhu-Sahil/Monopoly-Golang-Frontend">Monopoly</a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
-  <div style="width: 100%; overflow-x: auto;">
-    <table>
-      <thead>
-        <tr>
-          <th align="center"> &emsp; &emsp; &emsp; &emsp; &emsp; MERN Stack &emsp; &emsp; &emsp; &emsp; &emsp; </th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="center">
-            <a href="https://cavitywizard.com/">cavity wizard</a><br>
-            <a href="https://play.google.com/store/apps/details?id=com.farms2families">farms2families</a><br>
-            <a href="https://github.com/dsc-jiit-128/CrypticHunt">Cryptic hunt</a><br>
-            <a href="https://github.com/dsc-jiit-128/GDSC-128-Site">GDSC JIIT website</a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
-<div class="table-wrapper">
 <div>
-<table style="width: auto; overflow-x: hidden; ">
+<table>
   <tr>
   <td align="center">
 
@@ -98,9 +28,10 @@
   </td>
   </tr>
 </table>
-  </div>
-  <div>
-<table style="width: auto; overflow-x: hidden;"> 
+</div>
+
+<div>
+<table> 
   <tr>
   <td align="center">
 
@@ -118,9 +49,10 @@
   </td>
   </tr>
 </table>
-  </div>
-  <div>
-<table style="width: auto; overflow-x: hidden;">
+</div>
+
+<div>
+<table>
   <tr>
     <td>
 
@@ -131,8 +63,6 @@
    </td>
   </tr> 
 </table>
-
-</div>
 </div>
 
 - GoLang Backend
