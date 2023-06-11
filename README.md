@@ -46,7 +46,8 @@
 
   </td>
   </tr>
-  
+</table>
+<table>
   <tr>
 
 | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; HTML, CSS, JavaScript &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |
