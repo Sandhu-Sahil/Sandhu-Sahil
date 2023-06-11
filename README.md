@@ -6,16 +6,17 @@
 ## Projects:
 
 <div>
-<table>
+<div style="overflow-x: auto;">
+<table style="width: 100%;">
   <tr>
-  <td>
+  <td align="center">
 
 | &emsp; &emsp; &emsp; &emsp; &emsp; Golang Backend &emsp; &emsp; &emsp; &emsp; &emsp; |
 | :------------: |
 | [Cryptic hunt](https://github.com/dsc-jiit-128/CrypticHunt) <br> [Movies Crud](https://github.com/Sandhu-Sahil/movies-crud-GoLang) <br>  [WebApp](https://github.com/Sandhu-Sahil/Go-WebApp-Handling) <br>  [GoLang Sql](https://github.com/Sandhu-Sahil/GoLang-Database) <br>  [GoLang MongoDB](https://github.com/Sandhu-Sahil/MongoDb-GoLang) <br>  [Gin](https://github.com/Sandhu-Sahil/Gin-Mongodb) <br>  [JWT Authentication](https://github.com/Sandhu-Sahil/jwt-Golang) <br>  [Monopoly](https://github.com/Sandhu-Sahil/Monopoly-Golang-Backend) <br> | 
 
   </td>
-  <td>
+  <td align="center">
 
 | &emsp; &emsp; &emsp; &emsp; &emsp; Golang Frontend &emsp; &emsp; &emsp; &emsp; &emsp; |
 | :-------------: | 
@@ -28,17 +29,18 @@
   </td>
   </tr>
 </table>
-
-<table> 
+  </div>
+  <div style="overflow-x: auto;">
+<table style="width: 100%;"> 
   <tr>
-  <td>
+  <td align="center">
 
 | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Django &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |
 | :------------: |
 | [Best Market](https://github.com/Sandhu-Sahil/GDSC-supermarket) <br> [Auctioning Space](https://github.com/Sandhu-Sahil/Auctioning_Space) <br> [Job Genie](https://github.com/Sandhu-Sahil/Job-Genie) <br> [Social Networking](https://github.com/Sandhu-Sahil/Social_Networking_Website) <br> [Wiki Clone](https://github.com/Sandhu-Sahil/Encyclopedia-WIKI) <br> [Mail](https://github.com/Sandhu-Sahil/SS-Mails) <br> |
 
   </td>
-  <td>
+  <td align="center">
 
 | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Flask &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |
 | :------------: |
@@ -47,16 +49,21 @@
   </td>
   </tr>
 </table>
-<table>
+  </div>
+  <div style="overflow-x: auto;">
+<table style="width: 100%;">
   <tr>
+    <td>
 
 | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; HTML, CSS, JavaScript &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |
 | :------------: |
-| https://sandhu-sahil.github.io/Search_Engine/ <br> https://sandhu-sahil.github.io/Intro-Homepage/ <br> https://sandhu-sahil.github.io/To-Do-List_Using_browser_storage/ <br> https://sandhu-sahil.github.io/TimeTable/ <br> https://sandhu-sahil.github.io/Trivia-SS/ <br> https://github.com/dsc-jiit-128/DynamicQr |
+| https://sandhu-sahil.github.io/Search_Engine/ <br> https://sandhu-sahil.github.io/Intro-Homepage/ <br> https://sandhu-sahil.github.io/To-Do-List_Using_browser_storage/ <br> https://sandhu-sahil.github.io/TimeTable/ <br> https://sandhu-sahil.github.io/Trivia-SS/ <br> https://github.com/dsc-jiit-128/DynamicQr <br> |
 
+   </td>
   </tr>
 </table>
 
+</div>
 </div>
 
 - GoLang Backend
