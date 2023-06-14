@@ -65,51 +65,6 @@
 </table>
 </div>
 
-- GoLang Backend
-  - [Movies Crud](https://github.com/Sandhu-Sahil/movies-crud-GoLang)
-  - [WebApp](https://github.com/Sandhu-Sahil/Go-WebApp-Handling)
-  - [GoLang Sql](https://github.com/Sandhu-Sahil/GoLang-Database)
-  - [GoLang MongoDB](https://github.com/Sandhu-Sahil/MongoDb-GoLang)
-  - [Gin](https://github.com/Sandhu-Sahil/Gin-Mongodb)
-  - [JWT Authentication](https://github.com/Sandhu-Sahil/jwt-Golang)
-  - [Monopoly](https://github.com/Sandhu-Sahil/Monopoly-Golang-Backend)
-  <br>
-  
-- GoLang Frontend 
-  - [Monopoly](https://github.com/Sandhu-Sahil/Monopoly-Golang-Frontend)
-  <br>
-  
-- MERN Stack
-  - https://cavitywizard.com/
-  - https://github.com/dsc-jiit-128/CrypticHunt
-  - https://github.com/dsc-jiit-128/GDSC-128-Site
-  - https://play.google.com/store/apps/details?id=com.farms2families
- <br>
-
-- Django
-  - [Best Market](https://github.com/Sandhu-Sahil/GDSC-supermarket)
-  - [Auctioning Space](https://github.com/Sandhu-Sahil/Auctioning_Space)
-  - [Job Genie](https://github.com/Sandhu-Sahil/Job-Genie)
-  - [Social Networking](https://github.com/Sandhu-Sahil/Social_Networking_Website)
-  - [Wiki Clone](https://github.com/Sandhu-Sahil/Encyclopedia-WIKI)
-  - [Mail](https://github.com/Sandhu-Sahil/SS-Mails)
-<br>
-
-- Flask
-  - [Assess Enigma](https://github.com/Sandhu-Sahil/Assess_ENIGMA_......_Harvard_University)
-  - [Finance Stock Market](https://github.com/Sandhu-Sahil/CS50x2021_Harvard_University/tree/master/Week-09%20%20Flask%2C%20Ajax%2C%20JSON/Finance%2C%20Stock%20Market)
-  - [Birthday Tracker](https://github.com/Sandhu-Sahil/CS50x2021_Harvard_University/tree/master/Week-09%20%20Flask%2C%20Ajax%2C%20JSON/Birthday%20Database%20Tracker)
-<br>
-
-- HTML, CSS, JavaScript
-  - https://sandhu-sahil.github.io/Search_Engine/
-  - https://sandhu-sahil.github.io/Intro-Homepage/
-  - https://sandhu-sahil.github.io/To-Do-List_Using_browser_storage/
-  - https://sandhu-sahil.github.io/TimeTable/
-  - https://sandhu-sahil.github.io/Trivia-SS/
-  - https://github.com/dsc-jiit-128/DynamicQr
-<br>
-
 <!-- 💞️ I’m looking to collaborate on ...->
 
 
