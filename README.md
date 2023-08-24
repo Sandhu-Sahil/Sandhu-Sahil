@@ -1,9 +1,54 @@
 - 👋 Hi, I’m @Sandhu-Sahil  (Sahilsher Singh)
-- 👀 I’m interested in ... Web Development Backend / ML and AI
-- 🌱 I’m currently learning ... Golang and AWS
+- 👀 I’m interested in ... Web Development Backend / ML and AI / AWS
+- 🌱 I’m currently working on ... open source project Chromium
 - 📫 How to reach me ... sandhu.sahil2002@gmail.com
 
 ## Projects:
+
+<div>
+<table>
+  <tr>
+    <th align="center">
+      <h1> &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; BLOCKCHAIN &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp; </h1>
+    </th>
+  </tr>
+</table>
+</div>
+
+<div>
+<table> 
+  <tr>
+  <td align="center">
+
+| &emsp; &emsp; &emsp; &emsp;&emsp; Public Blockchain &emsp;&emsp; &emsp; &emsp; &emsp; |
+| :------------: |
+| [Solidity First](https://github.com/Sandhu-Sahil/Blockchain-Solidity-1st) <br> [LW3 Token](https://github.com/Sandhu-Sahil/Token-Blockchain) <br> [NFT](https://github.com/Sandhu-Sahil/Basic-NFT) <br> [Whitelist DApp](https://github.com/Sandhu-Sahil/whitelist-dapp) <br> [DAO Onchain](https://github.com/Sandhu-Sahil/onchain-DAO) <br> [Dao Onchain Frontend](https://github.com/Sandhu-Sahil/onchain-DAO-frontend) <br> [DEX Exchange](https://github.com/Sandhu-Sahil/DEX-exchange-app) <br> [IPFS](https://github.com/Sandhu-Sahil/nft-ipfs) <br> [IPFS Frontend](https://github.com/Sandhu-Sahil/nft-ipfs-frontend) <br> [ENS](https://github.com/Sandhu-Sahil/ENS-app) <br> [Ceramic](https://github.com/Sandhu-Sahil/ceramic-Web3) <br> [GraphQl](https://github.com/Sandhu-Sahil/graph-QL) <br> [Chainlinks (randomness)](https://github.com/Sandhu-Sahil/randomness-by-chainlinks-VRF) <br> [Random Winner Game](https://github.com/Sandhu-Sahil/Random-Winner-Game-Blockchain) <br> [Merkle Tree](https://github.com/Sandhu-Sahil/merkle-tree) <br> [Flashbots MEV](https://github.com/Sandhu-Sahil/flashbots-MEV) <br> |
+
+  </td>
+  <td align="center">
+
+| &emsp; &emsp; &emsp; &emsp;&emsp; Private Blockchain &emsp;&emsp; &emsp; &emsp; &emsp; |
+| :------------: |
+| [LFX](https://github.com/BiniWorld/Hyperledger-BiniBFT) <br> [Research Path](https://github.com/BiniWorld/Hyperledger-BiniBFT/tree/Blockchain-for-dummies) <br> [Fabric Samples](https://github.com/Sandhu-Sahil/fabric-samples) <br> [Bootstrapping Hyperledger](https://github.com/Sandhu-Sahil/bootstrapping-hyperledger) <br> [Mango Tracking System](https://github.com/Sandhu-Sahil/mango-tracking-sys) <br> [Raft Implimentaion](https://github.com/Sandhu-Sahil/raft-implementation) <br> [LFX Progress Report](https://github.com/Sandhu-Sahil/LFX-Hyperledger_progress-report) <br> |
+
+| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Discord Bot &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |
+| :-------------: | 
+| [Bot GoLang/Blockchain](https://github.com/Sandhu-Sahil/personal-discord-bot) <br> | 
+
+  </td>
+  </tr>
+</table>
+</div>
+
+<div>
+<table>
+  <tr>
+    <th align="center">
+      <h1> &emsp; &emsp; &emsp; &emsp; &emsp; WEB DEVELOPMENT &emsp; &emsp; &emsp; &emsp; &emsp; </h1>
+    </th>
+  </tr>
+</table>
+</div>
 
 <div>
 <table>
@@ -62,6 +107,39 @@
 
    </td>
   </tr> 
+</table>
+</div>
+
+<br>
+
+<div>
+<table>
+  <tr>
+    <th align="center">
+      <h1> &emsp; &emsp; &emsp; &emsp; &emsp; DEV/OPS (docker/K8's) &emsp; &emsp; &emsp; &emsp; &emsp; </h1>
+    </th>
+  </tr>
+</table>
+</div>
+
+<div>
+<table> 
+  <tr>
+  <td align="center">
+
+| &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; Docker &emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; |
+| :------------: |
+| [First try](https://github.com/Sandhu-Sahil/docker_first-try) <br> [App to Image](https://github.com/Sandhu-Sahil/Docker_app-to-image) <br> [Volumes](https://github.com/Sandhu-Sahil/Docker-volumes) <br> |
+
+  </td>
+  <td align="center">
+
+| &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; Kubernetes &emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; |
+| :------------: |
+| [K8's Commands](https://github.com/Sandhu-Sahil/commands-k8s) <br> [K8's YAML File](https://github.com/Sandhu-Sahil/yaml-k8s) <br> [Mini Project](https://github.com/Sandhu-Sahil/project-k8s) <br> |
+
+  </td>
+  </tr>
 </table>
 </div>
 
