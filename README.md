@@ -9,7 +9,7 @@
 <table>
   <tr>
     <th align="center">
-      <h1> &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; BLOCKCHAIN &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp; </h1>
+      <h1> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; BLOCKCHAIN &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; </h1>
     </th>
   </tr>
 </table>
@@ -44,7 +44,7 @@
 <table>
   <tr>
     <th align="center">
-      <h1> &emsp; &emsp; &emsp; &emsp; &emsp; WEB DEVELOPMENT &emsp; &emsp; &emsp; &emsp; &emsp; </h1>
+      <h1> &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; WEB DEVELOPMENT &emsp;&emsp;&emsp; &emsp; &emsp; &emsp; </h1>
     </th>
   </tr>
 </table>
@@ -116,7 +116,7 @@
 <table>
   <tr>
     <th align="center">
-      <h1> &emsp; &emsp; &emsp; &emsp; &emsp; DEV/OPS (docker/K8's) &emsp; &emsp; &emsp; &emsp; &emsp; </h1>
+      <h1> &emsp; &emsp; &emsp; &emsp; &emsp; DevOps (Docker/K8's) &emsp; &emsp; &emsp; &emsp; &emsp; </h1>
     </th>
   </tr>
 </table>
